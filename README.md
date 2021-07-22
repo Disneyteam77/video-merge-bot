@@ -17,7 +17,7 @@ sudo apt-get install ffmpeg
 
 - Clone this repo:
 ```
-git clone https://github.com/usmanmughalji/video-merge-bot
+git clone https://github.com/disneyteam77/video-merge-bot
 cd video-merge-bot
 ```
 - Install dependencies for running setup scripts:
@@ -37,14 +37,10 @@ python3 bot.py
 
 ## Click Here!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/usmanmughalji/video-merge-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/video-merge-bot)
 
 ## Updates
 
 - Updated Requirements
 - Added Heroku Support Properly
 - Added Proper Logging System
-
-## Credits, and Thanks to
-* [Jpegx100](https://github.com/Jpegx100/videomerge_bot) For His Wonderful Code (Original Repo)
-* [Usman Mughal](https://github.com/usmanmughalji) Hmm
